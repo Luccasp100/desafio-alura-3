@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Astro-Bot (Ps5)",
+      "price": "100",
+      "image": "https://m.media-amazon.com/images/I/81snwIyJDiL._AC_SX679_.jpg",
+      "id": 1
+    },
+    {
+      "name": "Elder Ring (Ps5)",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/I/81j-34Pnr2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ratchet & Clank (Ps5)",
+      "price": "150",
+      "image": "https://m.media-amazon.com/images/I/613kWig1C1L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Crash Bandicoot 4 (Xbox)",
+      "price": "170",
+      "image": "https://m.media-amazon.com/images/I/71pk0ibzR8L._AC_SX569_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Far Cry 6 Ultimate Edition (Xbox)",
+      "price": "300",
+      "image": "https://m.media-amazon.com/images/I/81YIF8M69AS._AC_SX569_.jpg",
+      "id": 5
+    },
+    {
+      "name": "Battlefield 2042 (Xbox)",
+      "price": "120",
+      "image": "https://m.media-amazon.com/images/I/71i7RYEbvcL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Animal Crossing (Nintendo)",
+      "price": "500",
+      "image": "https://m.media-amazon.com/images/I/81UfEdvf2kL._AC_SY741_.jpg",
+      "id": 7
+    },
+    {
+      "name": " Super Mario 3d World (Nintendo)",
+      "price": "300",
+      "image": "https://m.media-amazon.com/images/I/61RbU6HzyhL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "id": 8
+    },
+    {
+      "name": " The Legends of Zelda Echoes of Wisdom (Nintendo)",
+      "price": "325",
+      "image": "https://m.media-amazon.com/images/I/71vCMnjgF7L._AC_SX679_.jpg",
+      "id": 9
+    }
+  ]
+}
